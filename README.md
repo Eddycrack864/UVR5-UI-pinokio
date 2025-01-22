@@ -1,2 +1,4 @@
-# UVR5-UI-pinokio
-Port of UVR5-UI to pinokio (Official)
+# UVR5-UI
+
+A pinokio script for https://github.com/Eddycrack864/UVR5-UI.git
+
